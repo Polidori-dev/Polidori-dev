@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Gabriel Livorsi Polidori (@Polidori-dev)
+- 👋 Olá, sou o Gabriel Livorsi Polidori (@Polidori-dev)
 
-- 🐙 Senior Development Analyst at @Octalink
+- 🐙 Analista de Desenvolvimento de Software Sênior na @Octalink
 
-- 💞️ Passionate about programming and new challenges, I started developing out of obligation and saw it as an opportunity to change my life and take my technical level to another level.
+- 💞️ Apaixonado por programação e novos desafios, comecei a desenvolver por obrigação e vi nisso uma oportunidade para mudar de vida e levar meu nível técnico para outro patamar.
 
-- 👀 I have vast and solid knowledge in front-end development, my strong point is to create integrated interfaces meeting UI/UX design needs, with Angular 12, ReactJS, React Native and Clean Architecture.
+- 👀 Tenho conhecimento vasto e sólido no desenvolvimento front-end, meu ponto forte é criar interfaces integradas atendendo a necessidades de UI/UX design, com Angular 12, ReactJS, React Native e Arquitetura limpa.
 
+- 🚀 Bora codaaaar!
 
-- 📫 Find me on linkedin https://www.linkedin.com/in/gabriel-polidori/
+- 📫 Contato via linkedin https://www.linkedin.com/in/gabriel-polidori/
